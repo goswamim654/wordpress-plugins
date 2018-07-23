@@ -1,0 +1,10 @@
+.follow-me-list {
+	list-style: none;
+	border-bottom: 1px solid #000; 
+}
+.follow-me-list li {
+	margin-bottom: 20px; 
+}
+.follow-me-list li span {
+	margin-right: 10px; 
+}

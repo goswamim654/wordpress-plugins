@@ -1,0 +1,12 @@
+.author_photo {
+	text-align: center;	
+}
+.desc {
+	line-height: 22px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin-bottom: 20px;
+}
+#img_container img {
+	width: 280px;
+}

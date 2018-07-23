@@ -1,0 +1,74 @@
+.social-share-wrapper div
+{
+	float: left;
+	margin-right: 10px;
+	border-radius: 50px;
+	padding: 5px 15px;
+}
+
+.social-share-wrapper div.share-on
+{
+	font-weight: bold;
+	padding-left: 0;
+}
+
+.social-share-wrapper div.facebook
+{
+	background-color: #3a5795;
+}
+
+.social-share-wrapper div.facebook a
+{
+	color: white;
+}
+
+.social-share-wrapper div.twitter
+{
+	background-color: #55acee;
+}
+
+.social-share-wrapper div.twitter a
+{
+	color: white;
+}
+
+.social-share-wrapper div.linkedin
+{
+	background-color: #007bb6;
+}
+
+.social-share-wrapper div.linkedin a
+{
+	color: white;
+}
+
+.social-share-wrapper div.reddit
+{
+	background-color: #ACD4FC;
+}
+
+.social-share-wrapper div.reddit a
+{
+	color: white;
+}
+
+.social-share-wrapper div a
+{
+	text-decoration: none !important;
+	border: none !important;
+}
+
+.social-share-wrapper div a i
+{
+	padding-right: 5px;
+}
+.social-share-wrapper div a:hover
+{
+	color:white;
+	text-decoration:none;
+	cursor:pointer;
+}
+.clear
+{
+	clear: left;
+}
